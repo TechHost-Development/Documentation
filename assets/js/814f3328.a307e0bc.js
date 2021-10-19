@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_techhost_live=self.webpackChunkdocs_techhost_live||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to TechHost\'s Blog!","permalink":"/blog/Welcome to TechHost\'s Blog!"}]}')}}]);
