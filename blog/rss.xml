@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>TechHost - Documentation Blog</title>
+        <link>https://docs.techhost.live/blog</link>
+        <description>TechHost - Documentation Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome to TechHost's Blog!]]></title>
+            <link>https://docs.techhost.live/blog/Welcome to TechHost's Blog!</link>
+            <guid>Welcome to TechHost's Blog!</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to TechHost's blog and documentation!]]></description>
+            <content:encoded><![CDATA[<p>Welcome to TechHost&#x27;s blog and documentation!</p><p>While we get this up and running, join our Discord <a href="https://discord.gg/5uNpV5Mz2N">here</a>.</p><p><img src="./TechHost_Banner3.png" alt="TechHost Banner"/></p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

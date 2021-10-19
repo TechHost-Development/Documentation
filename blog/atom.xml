@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.techhost.live/blog</id>
+    <title>TechHost - Documentation Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.techhost.live/blog"/>
+    <subtitle>TechHost - Documentation Blog</subtitle>
+    <icon>https://docs.techhost.live/https://cdn.techhost.live/assets/TechHost_Icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to TechHost's Blog!]]></title>
+        <id>Welcome to TechHost's Blog!</id>
+        <link href="https://docs.techhost.live/blog/Welcome to TechHost's Blog!"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to TechHost's blog and documentation!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to TechHost&#x27;s blog and documentation!</p><p>While we get this up and running, join our Discord <a href="https://discord.gg/5uNpV5Mz2N">here</a>.</p><p><img src="./TechHost_Banner3.png" alt="TechHost Banner"/></p>]]></content>
+        <author>
+            <name>Tweak</name>
+            <uri>https://github.com/Tweak4141</uri>
+        </author>
+    </entry>
+</feed>
