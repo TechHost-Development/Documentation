@@ -10,7 +10,7 @@ Any and all contributions are welcome and highly appreciated.
 
 Check the [Issues Tab](https://github.com/TechHost-Development/Documentation/issues) for the To Do List. 
 
-1) [Fork this repository](https://github.com/TechHost-Development/fork)
+1) [Fork this repository](https://github.com/TechHost-Development/Documentation/fork)
 2) Make a branch from `main`
 3) Commit your changes
 4) Open a pull request here
