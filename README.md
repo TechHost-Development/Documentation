@@ -22,5 +22,5 @@ Check the [Issues Tab](https://github.com/TechHost-Development/Documentation/iss
 ----
 This repository is managed under the MIT license.
 
-CopyRight TechHost © 2021, All rights reserved.
+Copyright TechHost © 2021 - 2022, All rights reserved.
 
