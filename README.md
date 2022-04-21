@@ -1,3 +1,4 @@
+<p align="center"><strong>This project is currently not maintained, however, still available at https://docs.techhost.live.</strong></p>
 <h1 align="center">TechHost</h1>
 <h3 align="center"><strong>TechHost's Documentation</strong></h3>
 <p align="center"><img src="https://img.shields.io/badge/discord-invite-5865f2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/version-1.0.0-3572A5?style=for-the-badge"> <img src="https://img.shields.io/github/issues/TechHost-Development/Documentation.svg?style=for-the-badge"> 
